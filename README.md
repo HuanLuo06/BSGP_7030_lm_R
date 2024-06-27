@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuanLuo06/Conda_Binder_HL.git/py37_r353)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://hub.binder.curvenote.dev/user/huanluo06-conda_binder_hl-vuycmbt5/lab/tree/Lm_R.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-[https://mybinder.org/v2/gh/HuanLuo06/Conda_Binder_HL.git/py37_r353](https://mybinder.org/v2/gh/HuanLuo06/Conda_Binder_HL.git/py37_r353)
+[https://mybinder.org/v2/gh/HuanLuo06/Conda_Binder_HL.git/py37_r353](https://hub.binder.curvenote.dev/user/huanluo06-conda_binder_hl-vuycmbt5/lab/tree/Lm_R.ipynb)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
